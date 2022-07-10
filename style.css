@@ -10,7 +10,7 @@
 
 body {
     /* background-image: url("image/USO2.png"); */
-    background-color: rgba(107, 15, 36, 0.863);
+    background-color: #606061;
 }
 #container {
     display: grid;
